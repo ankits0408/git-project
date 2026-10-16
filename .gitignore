@@ -1,0 +1,20 @@
+.ignore
+# Java build output
+target/
+build/
+out/
+
+#Compiled files
+*.class
+*.jar
+
+#IDE files
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+
+#Log files
+*.log
+logs/
